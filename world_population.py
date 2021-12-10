@@ -1,4 +1,4 @@
-## Scrape data from HTML tables into a DataFrame using BeautifulSoup and Pandas
+## Scrape data from HTML tables into a DataFrame using BeautifulSoup, Pandas and requests
 import pandas as pd
 from bs4 import BeautifulSoup # this module helps in web scrapping.
 import requests  # this module helps us to download a web page
